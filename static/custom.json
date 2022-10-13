@@ -1,6 +1,6 @@
 {
     "connection": {
-        "ip": "192.168.8.157",
+        "ip":"nebula-graphd-svc.nebula.svc.cluster.local",
         "port": 9669
     },
     "alias": {

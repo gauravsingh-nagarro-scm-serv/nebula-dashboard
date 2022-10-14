@@ -15,7 +15,7 @@
     }
   },
   "nebulaServer": {
-    "ip": "192.168.8.156",
+    "ip": "nebula-graphd-svc.nebula.svc.cluster.local",
     "port": 9669
   }
 }

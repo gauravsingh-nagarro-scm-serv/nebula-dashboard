@@ -2,10 +2,10 @@
   "port": 7003,
   "proxy":{
     "gateway":{
-      "target": "http://192.168.8.44:8090"
+      "target": "nebula-http-gateway.nebula.svc.cluster.local:8090"
     },
     "prometheus":{
-      "target": "192.168.8.44:9090"
+      "target": "prometheus.nebula.svc.cluster.local:9090"
     }
   },
   "nebulaServer": {

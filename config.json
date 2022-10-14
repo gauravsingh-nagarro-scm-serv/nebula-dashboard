@@ -2,7 +2,7 @@
   "port": 7003,
   "proxy":{
     "gateway":{
-      "target": "nebula-http-gateway.nebula.svc.cluster.local:8090"
+      "target": "http://nebula-http-gateway-nebula.apps.dev.tata.click"
     },
     "prometheus":{
       "target": "prometheus.nebula.svc.cluster.local:9090"
